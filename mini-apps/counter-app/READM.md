@@ -13,7 +13,7 @@ src/
 │ └── CounterContext.jsx // useReducer + Context 定義
 ├── components/
 │ └── Counter.jsx // カウント表示＆操作 UI
-  └── App.jsx // Provider で全体を囲む
+│ └── App.jsx // Provider で全体を囲む
 ```
 
 ---
